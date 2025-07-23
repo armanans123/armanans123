@@ -1,4 +1,4 @@
-## Hi there, fellow <coders/>!👋, I'm Arman Ansari
+## Hi there👋 I'm Arman Ansari
 
 <!--
 **armanans123/armanans123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
