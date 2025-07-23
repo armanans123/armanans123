@@ -1,7 +1,6 @@
 ## Hi there👋 I'm Arman Ansari
 
-<!--
-**armanans123/armanans123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Enthusiastic Data Analyst 📊 | Turning Data into Insights 🔍 | Machine Learning Enthusiast 🤖 | Python 🐍 | Data Visualization 📊 | AI Explorer 🌌 | Constantly Learning 🧠 | Let's Unlock the Power of Data Together! 💡 #DataScience #MachineLearning #AI #DataDriven"
 
 Here are some ideas to get you started:
 
